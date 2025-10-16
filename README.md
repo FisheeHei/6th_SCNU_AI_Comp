@@ -1,0 +1,2 @@
+# 6th_SCNU_AI_Comp
+华南师范大学第六届人工智能算法挑战赛 baseline与个人用方案
